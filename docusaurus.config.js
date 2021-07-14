@@ -7,8 +7,8 @@ module.exports = {
   // tagline: 'Dinosaurs are cool',
   url: 'https://docs.statusblog.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore', //'throw',
+  onBrokenMarkdownLinks: 'ignore', //'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'statusblog', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
