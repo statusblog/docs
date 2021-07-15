@@ -14,7 +14,7 @@ The dashboard is the hub where you will be able to manage your status blog. The 
 
 The **blog dropdown** controls which blog you are currently managing, and allows you to create additional blogs. Learn more:
 
-* TODO Add a new status blog
+* [Add a new status blog](../create-customize-status-blog/add-a-new-status-blog.md)
 * TODO Switch between status blogs
 
 ## Dashboard tabs
@@ -25,7 +25,7 @@ The various **dashboard tabs** are used to navigate between the various configur
 
 The **Blog info** tab encompasses all the top-level configuration of your status blog. Learn more:
 
-* TODO Change blog settings
+* [Change blog settings](../create-customize-status-blog/change-blog-settings)
 * TODO Add a custom domain
 
 ### Components tab
