@@ -48,22 +48,19 @@ The **Incidents** tab is where you can create and update incidents. Learn more:
 
 The **Subscribers** tab is where you can add or remove subscribers to your status blog. Learn more:
 
-* TODO What is a subscriber?
-* TODO Add a subscriber
-* TODO Remove a subscriber
-* TODO When subscribers get notified
+* [What is a subscriber?](../subscribers/what-is-a-subscriber.md)
+* [Manage subscribers](../subscribers/manage-subscribers.md)
 
 ### View status blog link
 
 The **View status blog** link opens a new tab for your public facing status blog. Learn more:
 
-* TODO Public status blog overview
-* TODO Top-level status
+* [Status blog display](../blogs/status-blog-display.md)
 
 ## Account profile
 
 At the lower part of your sidebar you can see your **account profile**. Clicking on that directs you to your user settings. Learn more:
 
-* TODO Change your account email address
-* TODO Change your account password
+* [Change your account email address](../account-settings/change-email.md)
+* [Change your account password](../account-settings/reset-password.md)
 
