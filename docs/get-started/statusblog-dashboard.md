@@ -14,8 +14,8 @@ The dashboard is the hub where you will be able to manage your status blog. The 
 
 The **blog dropdown** controls which blog you are currently managing, and allows you to create additional blogs. Learn more:
 
-* [Add a new status blog](../create-customize-status-blog/add-a-new-status-blog.md)
-* [Switch between status blogs](../create-customize-status-blog/switch-between-status-blogs.md)
+* [Add a new status blog](../blogs/add-a-new-status-blog.md)
+* [Switch between status blogs](../blogs/switch-between-blogs.md)
 
 ## Dashboard tabs
 
@@ -25,24 +25,24 @@ The various **dashboard tabs** are used to navigate between the various configur
 
 The **Blog info** tab encompasses all the top-level configuration of your status blog. Learn more:
 
-* [Change blog settings](../create-customize-status-blog/change-blog-settings)
-* [Add a custom domain](../create-customize-status-blog/add-a-custom-domain)
+* [Change blog settings](../blogs/change-blog-settings)
+* [Add a custom domain](../blogs/add-a-custom-domain)
 
 ### Components tab
 
 The **Components** tab is where you can add and manage components. Learn more:
 
-* TODO What is a component?
-* TODO Create a component
-* TODO Component uptime display
+* [What is a component?](../components/what-is-a-component.md)
+* [Create or update a component](../components/create-or-update-a-component.md)
+* [Display historical component uptime](../components/display-historical-component-uptime.md)
 
 ### Incidents tab
 
 The **Incidents** tab is where you can create and update incidents. Learn more:
 
-* TODO What is an incident?
-* TODO Create an incident
-* TODO Blog status and incident display
+* [What is an incident?](../incidents/what-is-an-incident.md)
+* [Create or update an incident](../incidents/create-or-update-an-incident.md)
+* [Example incident](../incidents/example-incident.md)
 
 ### Subscribers tab
 

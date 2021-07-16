@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Display historical uptime
+# Display historical component uptime
 
 Uptime is the percentage calculation of how something is "up" or otherwise functioning. This feature is opt-in per component. It is enabled by checking **Display uptime** when creating or updating your component.
 

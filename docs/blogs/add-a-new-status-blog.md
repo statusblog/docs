@@ -10,4 +10,4 @@ Accounts can have multiple status blogs. If you want to create an additional sta
 
 ## Fill in the blog name and subdomain
 
-Afterwards, you will be directed to a new page where you will need to fill in your blog name and subdomain. You can find more information about those two fields in the [change blog settings](/create-customize-status-blog/change-blog-settings) documentation.
+Afterwards, you will be directed to a new page where you will need to fill in your blog name and subdomain. You can find more information about those two fields in the [change blog settings](/blogs/change-blog-settings) documentation.
