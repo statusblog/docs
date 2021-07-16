@@ -20,7 +20,7 @@ If you own your own domain, you can use that as the domain for your status blog.
 
 ## Description
 
-The description is a description of your status page for your users. It shows at the top of your public status blog. Here you can welcome your users and explain what sort of updates are posted to the status blog.
+The description is a description of your status blog for your users. It shows at the top of your public status blog. Here you can welcome your users and explain what sort of updates are posted to the status blog.
 
 ![status blog description](/img/status-blog-description-2.png)
 
